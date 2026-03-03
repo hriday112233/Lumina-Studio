@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Lumina Studio",
+  "description": "Professional AI-powered photo-to-video editor with cinematic transitions, custom music, and social media optimization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
